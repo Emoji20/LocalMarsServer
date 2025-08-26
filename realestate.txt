@@ -1,0 +1,5030 @@
+[
+  {
+    "price": 450000,
+    "id": "424905",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image1.jpg"
+  },
+  {
+    "price": 8000000,
+    "id": "424906",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image2.jpg"
+  },
+  {
+    "price": 11000000,
+    "id": "424907",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image3.jpg"
+  },
+  {
+    "price": 8000000,
+    "id": "424908",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image4.jpg"
+  },
+  {
+    "price": 12000000,
+    "id": "424909",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image5.jpg"
+  },
+  {
+    "price": 500000,
+    "id": "424910",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image6.jpg"
+  },
+  {
+    "price": 450000,
+    "id": "424911",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image7.jpg"
+  },
+  {
+    "price": 9000000,
+    "id": "424912",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image8.jpg"
+  },
+  {
+    "price": 9000000,
+    "id": "424913",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image9.jpg"
+  },
+  {
+    "price": 450000,
+    "id": "424914",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image10.jpg"
+  },
+  {
+    "price": 13000000,
+    "id": "424915",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image11.jpg"
+  },
+  {
+    "price": 350000,
+    "id": "424916",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image12.jpg"
+  },
+  {
+    "price": 350000,
+    "id": "424917",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image13.jpg"
+  },
+  {
+    "price": 200000,
+    "id": "424918",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image14.jpg"
+  },
+  {
+    "price": 12000000,
+    "id": "424919",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image15.jpg"
+  },
+  {
+    "price": 8000000,
+    "id": "424920",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image16.jpg"
+  },
+  {
+    "price": 8000000,
+    "id": "424921",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image17.jpg"
+  },
+  {
+    "price": 12000000,
+    "id": "424922",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image18.jpg"
+  },
+  {
+    "price": 450000,
+    "id": "424923",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image19.jpg"
+  },
+  {
+    "price": 6000000,
+    "id": "424924",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image20.jpg"
+  },
+  {
+    "price": 300000,
+    "id": "424925",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image21.jpg"
+  },
+  {
+    "price": 11000000,
+    "id": "424926",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image22.jpg"
+  },
+  {
+    "price": 13000000,
+    "id": "424927",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image23.jpg"
+  },
+  {
+    "price": 400000,
+    "id": "424928",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image24.jpg"
+  },
+  {
+    "price": 6000000,
+    "id": "424929",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image25.jpg"
+  },
+  {
+    "price": 13000000,
+    "id": "424930",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image26.jpg"
+  },
+  {
+    "price": 4000000,
+    "id": "424931",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image27.jpg"
+  },
+  {
+    "price": 4000000,
+    "id": "424932",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image28.jpg"
+  },
+  {
+    "price": 8000000,
+    "id": "424933",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image29.jpg"
+  },
+  {
+    "price": 9000000,
+    "id": "424934",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image30.jpg"
+  },
+  {
+    "price": 200000,
+    "id": "424935",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image31.jpg"
+  },
+  {
+    "price": 450000,
+    "id": "424936",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image32.jpg"
+  },
+  {
+    "price": 4000000,
+    "id": "424937",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image33.jpg"
+  },
+  {
+    "price": 9000000,
+    "id": "424938",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image34.jpg"
+  },
+  {
+    "price": 300000,
+    "id": "424939",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image35.jpg"
+  },
+  {
+    "price": 6000000,
+    "id": "424940",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image36.jpg"
+  },
+  {
+    "price": 500000,
+    "id": "424941",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image37.jpg"
+  },
+  {
+    "price": 350000,
+    "id": "424942",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image38.jpg"
+  },
+  {
+    "price": 13000000,
+    "id": "424943",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image39.jpg"
+  },
+  {
+    "price": 11000000,
+    "id": "424944",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image40.jpg"
+  },
+  {
+    "price": 8000000,
+    "id": "424945",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image41.jpg"
+  },
+  {
+    "price": 450000,
+    "id": "424946",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image42.jpg"
+  },
+  {
+    "price": 12000000,
+    "id": "424947",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image43.jpg"
+  },
+  {
+    "price": 250000,
+    "id": "424948",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image44.jpg"
+  },
+  {
+    "price": 350000,
+    "id": "424949",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image45.jpg"
+  },
+  {
+    "price": 7000000,
+    "id": "424950",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image46.jpg"
+  },
+  {
+    "price": 11000000,
+    "id": "424951",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image47.jpg"
+  },
+  {
+    "price": 11000000,
+    "id": "424952",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image48.jpg"
+  },
+  {
+    "price": 250000,
+    "id": "424953",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image49.jpg"
+  },
+  {
+    "price": 200000,
+    "id": "424954",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image50.jpg"
+  },
+  {
+    "price": 4000000,
+    "id": "424955",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image51.jpg"
+  },
+  {
+    "price": 13000000,
+    "id": "424956",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image52.jpg"
+  },
+  {
+    "price": 6000000,
+    "id": "424957",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image53.jpg"
+  },
+  {
+    "price": 450000,
+    "id": "424958",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image54.jpg"
+  },
+  {
+    "price": 500000,
+    "id": "424959",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image55.jpg"
+  },
+  {
+    "price": 10000000,
+    "id": "424960",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image56.jpg"
+  },
+  {
+    "price": 9000000,
+    "id": "424961",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image57.jpg"
+  },
+  {
+    "price": 250000,
+    "id": "424962",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image58.jpg"
+  },
+  {
+    "price": 12000000,
+    "id": "424963",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image59.jpg"
+  },
+  {
+    "price": 4000000,
+    "id": "424964",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image60.jpg"
+  },
+  {
+    "price": 300000,
+    "id": "424965",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image61.jpg"
+  },
+  {
+    "price": 7000000,
+    "id": "424966",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image62.jpg"
+  },
+  {
+    "price": 8000000,
+    "id": "424967",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image63.jpg"
+  },
+  {
+    "price": 8000000,
+    "id": "424968",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image64.jpg"
+  },
+  {
+    "price": 5000000,
+    "id": "424969",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image65.jpg"
+  },
+  {
+    "price": 10000000,
+    "id": "424970",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image66.jpg"
+  },
+  {
+    "price": 100000,
+    "id": "424971",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image67.jpg"
+  },
+  {
+    "price": 10000000,
+    "id": "424972",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image68.jpg"
+  },
+  {
+    "price": 6000000,
+    "id": "424973",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image69.jpg"
+  },
+  {
+    "price": 12000000,
+    "id": "424974",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image70.jpg"
+  },
+  {
+    "price": 7000000,
+    "id": "424975",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image71.jpg"
+  },
+  {
+    "price": 6000000,
+    "id": "424976",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image72.jpg"
+  },
+  {
+    "price": 5000000,
+    "id": "424977",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image73.jpg"
+  },
+  {
+    "price": 8000000,
+    "id": "424978",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image74.jpg"
+  },
+  {
+    "price": 8000000,
+    "id": "424979",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image75.jpg"
+  },
+  {
+    "price": 8000000,
+    "id": "424980",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image76.jpg"
+  },
+  {
+    "price": 450000,
+    "id": "424981",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image77.jpg"
+  },
+  {
+    "price": 8000000,
+    "id": "424982",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image78.jpg"
+  },
+  {
+    "price": 12000000,
+    "id": "424983",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image79.jpg"
+  },
+  {
+    "price": 400000,
+    "id": "424984",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image80.jpg"
+  },
+  {
+    "price": 200000,
+    "id": "424985",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image81.jpg"
+  },
+  {
+    "price": 350000,
+    "id": "424986",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image82.jpg"
+  },
+  {
+    "price": 8000000,
+    "id": "424987",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image83.jpg"
+  },
+  {
+    "price": 200000,
+    "id": "424988",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image84.jpg"
+  },
+  {
+    "price": 11000000,
+    "id": "424989",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image85.jpg"
+  },
+  {
+    "price": 100000,
+    "id": "424990",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image86.jpg"
+  },
+  {
+    "price": 9000000,
+    "id": "424991",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image87.jpg"
+  },
+  {
+    "price": 5000000,
+    "id": "424992",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image88.jpg"
+  },
+  {
+    "price": 13000000,
+    "id": "424993",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image89.jpg"
+  },
+  {
+    "price": 200000,
+    "id": "424994",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image90.jpg"
+  },
+  {
+    "price": 11000000,
+    "id": "424995",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image91.jpg"
+  },
+  {
+    "price": 50000,
+    "id": "424996",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image92.jpg"
+  },
+  {
+    "price": 13000000,
+    "id": "424997",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image93.jpg"
+  },
+  {
+    "price": 10000000,
+    "id": "424998",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image94.jpg"
+  },
+  {
+    "price": 350000,
+    "id": "424999",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image95.jpg"
+  },
+  {
+    "price": 300000,
+    "id": "425000",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image96.jpg"
+  },
+  {
+    "price": 400000,
+    "id": "425001",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image97.jpg"
+  },
+  {
+    "price": 300000,
+    "id": "425002",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image98.jpg"
+  },
+  {
+    "price": 100000,
+    "id": "425003",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image99.jpg"
+  },
+  {
+    "price": 250000,
+    "id": "425004",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image100.jpg"
+  },
+  {
+    "price": 11000000,
+    "id": "425005",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image101.jpg"
+  },
+  {
+    "price": 10000000,
+    "id": "425006",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image102.jpg"
+  },
+  {
+    "price": 5000000,
+    "id": "425007",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image103.jpg"
+  },
+  {
+    "price": 11000000,
+    "id": "425008",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image104.jpg"
+  },
+  {
+    "price": 11000000,
+    "id": "425009",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image105.jpg"
+  },
+  {
+    "price": 100000,
+    "id": "425010",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image106.jpg"
+  },
+  {
+    "price": 12000000,
+    "id": "425011",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image107.jpg"
+  },
+  {
+    "price": 450000,
+    "id": "425012",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image108.jpg"
+  },
+  {
+    "price": 12000000,
+    "id": "425013",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image109.jpg"
+  },
+  {
+    "price": 250000,
+    "id": "425014",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image110.jpg"
+  },
+  {
+    "price": 500000,
+    "id": "425015",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image111.jpg"
+  },
+  {
+    "price": 150000,
+    "id": "425016",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image112.jpg"
+  },
+  {
+    "price": 400000,
+    "id": "425017",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image113.jpg"
+  },
+  {
+    "price": 10000000,
+    "id": "425018",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image114.jpg"
+  },
+  {
+    "price": 7000000,
+    "id": "425019",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image115.jpg"
+  },
+  {
+    "price": 150000,
+    "id": "425020",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image116.jpg"
+  },
+  {
+    "price": 200000,
+    "id": "425021",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image117.jpg"
+  },
+  {
+    "price": 6000000,
+    "id": "425022",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image118.jpg"
+  },
+  {
+    "price": 10000000,
+    "id": "425023",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image119.jpg"
+  },
+  {
+    "price": 7000000,
+    "id": "425024",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image120.jpg"
+  },
+  {
+    "price": 350000,
+    "id": "425025",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image121.jpg"
+  },
+  {
+    "price": 5000000,
+    "id": "425026",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image122.jpg"
+  },
+  {
+    "price": 6000000,
+    "id": "425027",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image123.jpg"
+  },
+  {
+    "price": 50000,
+    "id": "425028",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image124.jpg"
+  },
+  {
+    "price": 300000,
+    "id": "425029",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image125.jpg"
+  },
+  {
+    "price": 350000,
+    "id": "425030",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image126.jpg"
+  },
+  {
+    "price": 9000000,
+    "id": "425031",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image127.jpg"
+  },
+  {
+    "price": 50000,
+    "id": "425032",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image128.jpg"
+  },
+  {
+    "price": 450000,
+    "id": "425033",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image129.jpg"
+  },
+  {
+    "price": 300000,
+    "id": "425034",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image130.jpg"
+  },
+  {
+    "price": 4000000,
+    "id": "425035",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image131.jpg"
+  },
+  {
+    "price": 12000000,
+    "id": "425036",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image132.jpg"
+  },
+  {
+    "price": 250000,
+    "id": "425037",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image133.jpg"
+  },
+  {
+    "price": 400000,
+    "id": "425038",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image134.jpg"
+  },
+  {
+    "price": 8000000,
+    "id": "425039",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image135.jpg"
+  },
+  {
+    "price": 250000,
+    "id": "425040",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image136.jpg"
+  },
+  {
+    "price": 10000000,
+    "id": "425041",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image137.jpg"
+  },
+  {
+    "price": 10000000,
+    "id": "425042",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image138.jpg"
+  },
+  {
+    "price": 13000000,
+    "id": "425043",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image139.jpg"
+  },
+  {
+    "price": 10000000,
+    "id": "425044",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image140.jpg"
+  },
+  {
+    "price": 200000,
+    "id": "425045",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image141.jpg"
+  },
+  {
+    "price": 50000,
+    "id": "425046",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image142.jpg"
+  },
+  {
+    "price": 250000,
+    "id": "425047",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image143.jpg"
+  },
+  {
+    "price": 100000,
+    "id": "425048",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image144.jpg"
+  },
+  {
+    "price": 200000,
+    "id": "425049",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image145.jpg"
+  },
+  {
+    "price": 500000,
+    "id": "425050",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image146.jpg"
+  },
+  {
+    "price": 300000,
+    "id": "425051",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image147.jpg"
+  },
+  {
+    "price": 8000000,
+    "id": "425052",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image148.jpg"
+  },
+  {
+    "price": 7000000,
+    "id": "425053",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image149.jpg"
+  },
+  {
+    "price": 5000000,
+    "id": "425054",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image150.jpg"
+  },
+  {
+    "price": 250000,
+    "id": "425055",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image151.jpg"
+  },
+  {
+    "price": 50000,
+    "id": "425056",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image152.jpg"
+  },
+  {
+    "price": 9000000,
+    "id": "425057",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image153.jpg"
+  },
+  {
+    "price": 8000000,
+    "id": "425058",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image154.jpg"
+  },
+  {
+    "price": 350000,
+    "id": "425059",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image155.jpg"
+  },
+  {
+    "price": 300000,
+    "id": "425060",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image156.jpg"
+  },
+  {
+    "price": 7000000,
+    "id": "425061",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image157.jpg"
+  },
+  {
+    "price": 10000000,
+    "id": "425062",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image158.jpg"
+  },
+  {
+    "price": 50000,
+    "id": "425063",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image159.jpg"
+  },
+  {
+    "price": 4000000,
+    "id": "425064",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image160.jpg"
+  },
+  {
+    "price": 12000000,
+    "id": "425065",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image161.jpg"
+  },
+  {
+    "price": 9000000,
+    "id": "425066",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image162.jpg"
+  },
+  {
+    "price": 10000000,
+    "id": "425067",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image163.jpg"
+  },
+  {
+    "price": 9000000,
+    "id": "425068",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image164.jpg"
+  },
+  {
+    "price": 450000,
+    "id": "425069",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image165.jpg"
+  },
+  {
+    "price": 100000,
+    "id": "425070",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image166.jpg"
+  },
+  {
+    "price": 4000000,
+    "id": "425071",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image167.jpg"
+  },
+  {
+    "price": 450000,
+    "id": "425072",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image168.jpg"
+  },
+  {
+    "price": 300000,
+    "id": "425073",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image169.jpg"
+  },
+  {
+    "price": 200000,
+    "id": "425074",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image170.jpg"
+  },
+  {
+    "price": 350000,
+    "id": "425075",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image171.jpg"
+  },
+  {
+    "price": 450000,
+    "id": "425076",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image172.jpg"
+  },
+  {
+    "price": 12000000,
+    "id": "425077",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image173.jpg"
+  },
+  {
+    "price": 9000000,
+    "id": "425078",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image174.jpg"
+  },
+  {
+    "price": 450000,
+    "id": "425079",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image175.jpg"
+  },
+  {
+    "price": 12000000,
+    "id": "425080",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image176.jpg"
+  },
+  {
+    "price": 7000000,
+    "id": "425081",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image177.jpg"
+  },
+  {
+    "price": 11000000,
+    "id": "425082",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image178.jpg"
+  },
+  {
+    "price": 200000,
+    "id": "425083",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image179.jpg"
+  },
+  {
+    "price": 10000000,
+    "id": "425084",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image180.jpg"
+  },
+  {
+    "price": 50000,
+    "id": "425085",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image181.jpg"
+  },
+  {
+    "price": 8000000,
+    "id": "425086",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image182.jpg"
+  },
+  {
+    "price": 7000000,
+    "id": "425087",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image183.jpg"
+  },
+  {
+    "price": 4000000,
+    "id": "425088",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image184.jpg"
+  },
+  {
+    "price": 450000,
+    "id": "425089",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image185.jpg"
+  },
+  {
+    "price": 500000,
+    "id": "425090",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image186.jpg"
+  },
+  {
+    "price": 7000000,
+    "id": "425091",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image187.jpg"
+  },
+  {
+    "price": 500000,
+    "id": "425092",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image188.jpg"
+  },
+  {
+    "price": 12000000,
+    "id": "425093",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image189.jpg"
+  },
+  {
+    "price": 8000000,
+    "id": "425094",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image190.jpg"
+  },
+  {
+    "price": 100000,
+    "id": "425095",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image191.jpg"
+  },
+  {
+    "price": 9000000,
+    "id": "425096",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image192.jpg"
+  },
+  {
+    "price": 7000000,
+    "id": "425097",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image193.jpg"
+  },
+  {
+    "price": 11000000,
+    "id": "425098",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image194.jpg"
+  },
+  {
+    "price": 13000000,
+    "id": "425099",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image195.jpg"
+  },
+  {
+    "price": 7000000,
+    "id": "425100",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image196.jpg"
+  },
+  {
+    "price": 350000,
+    "id": "425101",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image197.jpg"
+  },
+  {
+    "price": 50000,
+    "id": "425102",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image198.jpg"
+  },
+  {
+    "price": 250000,
+    "id": "425103",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image199.jpg"
+  },
+  {
+    "price": 300000,
+    "id": "425104",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image200.jpg"
+  },
+  {
+    "price": 250000,
+    "id": "425105",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image201.jpg"
+  },
+  {
+    "price": 100000,
+    "id": "425106",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image202.jpg"
+  },
+  {
+    "price": 150000,
+    "id": "425107",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image203.jpg"
+  },
+  {
+    "price": 150000,
+    "id": "425108",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image204.jpg"
+  },
+  {
+    "price": 50000,
+    "id": "425109",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image205.jpg"
+  },
+  {
+    "price": 10000000,
+    "id": "425110",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image206.jpg"
+  },
+  {
+    "price": 250000,
+    "id": "425111",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image207.jpg"
+  },
+  {
+    "price": 400000,
+    "id": "425112",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image208.jpg"
+  },
+  {
+    "price": 350000,
+    "id": "425113",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image209.jpg"
+  },
+  {
+    "price": 300000,
+    "id": "425114",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image210.jpg"
+  },
+  {
+    "price": 13000000,
+    "id": "425115",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image211.jpg"
+  },
+  {
+    "price": 8000000,
+    "id": "425116",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image212.jpg"
+  },
+  {
+    "price": 250000,
+    "id": "425117",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image213.jpg"
+  },
+  {
+    "price": 10000000,
+    "id": "425118",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image214.jpg"
+  },
+  {
+    "price": 11000000,
+    "id": "425119",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image215.jpg"
+  },
+  {
+    "price": 450000,
+    "id": "425120",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image216.jpg"
+  },
+  {
+    "price": 100000,
+    "id": "425121",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image217.jpg"
+  },
+  {
+    "price": 50000,
+    "id": "425122",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image218.jpg"
+  },
+  {
+    "price": 350000,
+    "id": "425123",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image219.jpg"
+  },
+  {
+    "price": 10000000,
+    "id": "425124",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image220.jpg"
+  },
+  {
+    "price": 150000,
+    "id": "425125",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image221.jpg"
+  },
+  {
+    "price": 10000000,
+    "id": "425126",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image222.jpg"
+  },
+  {
+    "price": 11000000,
+    "id": "425127",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image223.jpg"
+  },
+  {
+    "price": 150000,
+    "id": "425128",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image224.jpg"
+  },
+  {
+    "price": 300000,
+    "id": "425129",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image225.jpg"
+  },
+  {
+    "price": 100000,
+    "id": "425130",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image226.jpg"
+  },
+  {
+    "price": 12000000,
+    "id": "425131",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image227.jpg"
+  },
+  {
+    "price": 12000000,
+    "id": "425132",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image228.jpg"
+  },
+  {
+    "price": 11000000,
+    "id": "425133",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image229.jpg"
+  },
+  {
+    "price": 150000,
+    "id": "425134",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image230.jpg"
+  },
+  {
+    "price": 5000000,
+    "id": "425135",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image231.jpg"
+  },
+  {
+    "price": 350000,
+    "id": "425136",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image232.jpg"
+  },
+  {
+    "price": 200000,
+    "id": "425137",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image233.jpg"
+  },
+  {
+    "price": 250000,
+    "id": "425138",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image234.jpg"
+  },
+  {
+    "price": 400000,
+    "id": "425139",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image235.jpg"
+  },
+  {
+    "price": 4000000,
+    "id": "425140",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image236.jpg"
+  },
+  {
+    "price": 8000000,
+    "id": "425141",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image237.jpg"
+  },
+  {
+    "price": 13000000,
+    "id": "425142",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image238.jpg"
+  },
+  {
+    "price": 11000000,
+    "id": "425143",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image239.jpg"
+  },
+  {
+    "price": 8000000,
+    "id": "425144",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image240.jpg"
+  },
+  {
+    "price": 8000000,
+    "id": "425145",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image241.jpg"
+  },
+  {
+    "price": 8000000,
+    "id": "425146",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image242.jpg"
+  },
+  {
+    "price": 300000,
+    "id": "425147",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image243.jpg"
+  },
+  {
+    "price": 4000000,
+    "id": "425148",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image244.jpg"
+  },
+  {
+    "price": 100000,
+    "id": "425149",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image245.jpg"
+  },
+  {
+    "price": 10000000,
+    "id": "425150",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image246.jpg"
+  },
+  {
+    "price": 7000000,
+    "id": "425151",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image247.jpg"
+  },
+  {
+    "price": 300000,
+    "id": "425152",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image248.jpg"
+  },
+  {
+    "price": 12000000,
+    "id": "425153",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image249.jpg"
+  },
+  {
+    "price": 300000,
+    "id": "425154",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image250.jpg"
+  },
+  {
+    "price": 12000000,
+    "id": "425155",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image251.jpg"
+  },
+  {
+    "price": 200000,
+    "id": "425156",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image252.jpg"
+  },
+  {
+    "price": 8000000,
+    "id": "425157",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image253.jpg"
+  },
+  {
+    "price": 400000,
+    "id": "425158",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image254.jpg"
+  },
+  {
+    "price": 200000,
+    "id": "425159",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image255.jpg"
+  },
+  {
+    "price": 9000000,
+    "id": "425160",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image256.jpg"
+  },
+  {
+    "price": 11000000,
+    "id": "425161",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image257.jpg"
+  },
+  {
+    "price": 4000000,
+    "id": "425162",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image258.jpg"
+  },
+  {
+    "price": 100000,
+    "id": "425163",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image259.jpg"
+  },
+  {
+    "price": 9000000,
+    "id": "425164",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image260.jpg"
+  },
+  {
+    "price": 50000,
+    "id": "425165",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image261.jpg"
+  },
+  {
+    "price": 6000000,
+    "id": "425166",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image262.jpg"
+  },
+  {
+    "price": 5000000,
+    "id": "425167",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image263.jpg"
+  },
+  {
+    "price": 5000000,
+    "id": "425168",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image264.jpg"
+  },
+  {
+    "price": 8000000,
+    "id": "425169",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image265.jpg"
+  },
+  {
+    "price": 9000000,
+    "id": "425170",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image266.jpg"
+  },
+  {
+    "price": 50000,
+    "id": "425171",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image267.jpg"
+  },
+  {
+    "price": 350000,
+    "id": "425172",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image268.jpg"
+  },
+  {
+    "price": 150000,
+    "id": "425173",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image269.jpg"
+  },
+  {
+    "price": 7000000,
+    "id": "425174",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image270.jpg"
+  },
+  {
+    "price": 150000,
+    "id": "425175",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image271.jpg"
+  },
+  {
+    "price": 11000000,
+    "id": "425176",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image272.jpg"
+  },
+  {
+    "price": 500000,
+    "id": "425177",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image273.jpg"
+  },
+  {
+    "price": 13000000,
+    "id": "425178",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image274.jpg"
+  },
+  {
+    "price": 10000000,
+    "id": "425179",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image275.jpg"
+  },
+  {
+    "price": 400000,
+    "id": "425180",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image276.jpg"
+  },
+  {
+    "price": 400000,
+    "id": "425181",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image277.jpg"
+  },
+  {
+    "price": 300000,
+    "id": "425182",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image278.jpg"
+  },
+  {
+    "price": 50000,
+    "id": "425183",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image279.jpg"
+  },
+  {
+    "price": 4000000,
+    "id": "425184",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image280.jpg"
+  },
+  {
+    "price": 13000000,
+    "id": "425185",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image281.jpg"
+  },
+  {
+    "price": 11000000,
+    "id": "425186",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image282.jpg"
+  },
+  {
+    "price": 400000,
+    "id": "425187",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image283.jpg"
+  },
+  {
+    "price": 400000,
+    "id": "425188",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image284.jpg"
+  },
+  {
+    "price": 500000,
+    "id": "425189",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image285.jpg"
+  },
+  {
+    "price": 450000,
+    "id": "425190",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image286.jpg"
+  },
+  {
+    "price": 450000,
+    "id": "425191",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image287.jpg"
+  },
+  {
+    "price": 13000000,
+    "id": "425192",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image288.jpg"
+  },
+  {
+    "price": 100000,
+    "id": "425193",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image289.jpg"
+  },
+  {
+    "price": 11000000,
+    "id": "425194",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image290.jpg"
+  },
+  {
+    "price": 500000,
+    "id": "425195",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image291.jpg"
+  },
+  {
+    "price": 5000000,
+    "id": "425196",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image292.jpg"
+  },
+  {
+    "price": 500000,
+    "id": "425197",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image293.jpg"
+  },
+  {
+    "price": 12000000,
+    "id": "425198",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image294.jpg"
+  },
+  {
+    "price": 500000,
+    "id": "425199",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image295.jpg"
+  },
+  {
+    "price": 7000000,
+    "id": "425200",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image296.jpg"
+  },
+  {
+    "price": 4000000,
+    "id": "425201",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image297.jpg"
+  },
+  {
+    "price": 100000,
+    "id": "425202",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image298.jpg"
+  },
+  {
+    "price": 200000,
+    "id": "425203",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image299.jpg"
+  },
+  {
+    "price": 350000,
+    "id": "425204",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image300.jpg"
+  },
+  {
+    "price": 400000,
+    "id": "425205",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image301.jpg"
+  },
+  {
+    "price": 6000000,
+    "id": "425206",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image302.jpg"
+  },
+  {
+    "price": 6000000,
+    "id": "425207",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image303.jpg"
+  },
+  {
+    "price": 150000,
+    "id": "425208",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image304.jpg"
+  },
+  {
+    "price": 13000000,
+    "id": "425209",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image305.jpg"
+  },
+  {
+    "price": 11000000,
+    "id": "425210",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image306.jpg"
+  },
+  {
+    "price": 350000,
+    "id": "425211",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image307.jpg"
+  },
+  {
+    "price": 6000000,
+    "id": "425212",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image308.jpg"
+  },
+  {
+    "price": 150000,
+    "id": "425213",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image309.jpg"
+  },
+  {
+    "price": 10000000,
+    "id": "425214",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image310.jpg"
+  },
+  {
+    "price": 7000000,
+    "id": "425215",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image311.jpg"
+  },
+  {
+    "price": 12000000,
+    "id": "425216",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image312.jpg"
+  },
+  {
+    "price": 250000,
+    "id": "425217",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image313.jpg"
+  },
+  {
+    "price": 10000000,
+    "id": "425218",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image314.jpg"
+  },
+  {
+    "price": 9000000,
+    "id": "425219",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image315.jpg"
+  },
+  {
+    "price": 12000000,
+    "id": "425220",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image316.jpg"
+  },
+  {
+    "price": 200000,
+    "id": "425221",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image317.jpg"
+  },
+  {
+    "price": 6000000,
+    "id": "425222",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image318.jpg"
+  },
+  {
+    "price": 9000000,
+    "id": "425223",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image319.jpg"
+  },
+  {
+    "price": 150000,
+    "id": "425224",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image320.jpg"
+  },
+  {
+    "price": 400000,
+    "id": "425225",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image321.jpg"
+  },
+  {
+    "price": 300000,
+    "id": "425226",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image322.jpg"
+  },
+  {
+    "price": 13000000,
+    "id": "425227",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image323.jpg"
+  },
+  {
+    "price": 11000000,
+    "id": "425228",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image324.jpg"
+  },
+  {
+    "price": 200000,
+    "id": "425229",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image325.jpg"
+  },
+  {
+    "price": 6000000,
+    "id": "425230",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image326.jpg"
+  },
+  {
+    "price": 450000,
+    "id": "425231",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image327.jpg"
+  },
+  {
+    "price": 400000,
+    "id": "425232",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image328.jpg"
+  },
+  {
+    "price": 9000000,
+    "id": "425233",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image329.jpg"
+  },
+  {
+    "price": 4000000,
+    "id": "425234",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image330.jpg"
+  },
+  {
+    "price": 4000000,
+    "id": "425235",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image331.jpg"
+  },
+  {
+    "price": 5000000,
+    "id": "425236",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image332.jpg"
+  },
+  {
+    "price": 10000000,
+    "id": "425237",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image333.jpg"
+  },
+  {
+    "price": 350000,
+    "id": "425238",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image334.jpg"
+  },
+  {
+    "price": 12000000,
+    "id": "425239",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image335.jpg"
+  },
+  {
+    "price": 350000,
+    "id": "425240",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image336.jpg"
+  },
+  {
+    "price": 200000,
+    "id": "425241",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image337.jpg"
+  },
+  {
+    "price": 11000000,
+    "id": "425242",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image338.jpg"
+  },
+  {
+    "price": 12000000,
+    "id": "425243",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image339.jpg"
+  },
+  {
+    "price": 450000,
+    "id": "425244",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image340.jpg"
+  },
+  {
+    "price": 6000000,
+    "id": "425245",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image341.jpg"
+  },
+  {
+    "price": 13000000,
+    "id": "425246",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image342.jpg"
+  },
+  {
+    "price": 100000,
+    "id": "425247",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image343.jpg"
+  },
+  {
+    "price": 350000,
+    "id": "425248",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image344.jpg"
+  },
+  {
+    "price": 5000000,
+    "id": "425249",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image345.jpg"
+  },
+  {
+    "price": 8000000,
+    "id": "425250",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image346.jpg"
+  },
+  {
+    "price": 8000000,
+    "id": "425251",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image347.jpg"
+  },
+  {
+    "price": 9000000,
+    "id": "425252",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image348.jpg"
+  },
+  {
+    "price": 200000,
+    "id": "425253",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image349.jpg"
+  },
+  {
+    "price": 9000000,
+    "id": "425254",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image350.jpg"
+  },
+  {
+    "price": 9000000,
+    "id": "425255",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image351.jpg"
+  },
+  {
+    "price": 13000000,
+    "id": "425256",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image352.jpg"
+  },
+  {
+    "price": 5000000,
+    "id": "425257",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image353.jpg"
+  },
+  {
+    "price": 6000000,
+    "id": "425258",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image354.jpg"
+  },
+  {
+    "price": 9000000,
+    "id": "425259",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image355.jpg"
+  },
+  {
+    "price": 250000,
+    "id": "425260",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image356.jpg"
+  },
+  {
+    "price": 300000,
+    "id": "425261",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image357.jpg"
+  },
+  {
+    "price": 200000,
+    "id": "425262",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image358.jpg"
+  },
+  {
+    "price": 350000,
+    "id": "425263",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image359.jpg"
+  },
+  {
+    "price": 10000000,
+    "id": "425264",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image360.jpg"
+  },
+  {
+    "price": 400000,
+    "id": "425265",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image361.jpg"
+  },
+  {
+    "price": 50000,
+    "id": "425266",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image362.jpg"
+  },
+  {
+    "price": 500000,
+    "id": "425267",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image363.jpg"
+  },
+  {
+    "price": 7000000,
+    "id": "425268",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image364.jpg"
+  },
+  {
+    "price": 6000000,
+    "id": "425269",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image365.jpg"
+  },
+  {
+    "price": 9000000,
+    "id": "425270",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image366.jpg"
+  },
+  {
+    "price": 5000000,
+    "id": "425271",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image367.jpg"
+  },
+  {
+    "price": 400000,
+    "id": "425272",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image368.jpg"
+  },
+  {
+    "price": 50000,
+    "id": "425273",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image369.jpg"
+  },
+  {
+    "price": 8000000,
+    "id": "425274",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image370.jpg"
+  },
+  {
+    "price": 8000000,
+    "id": "425275",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image371.jpg"
+  },
+  {
+    "price": 11000000,
+    "id": "425276",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image372.jpg"
+  },
+  {
+    "price": 5000000,
+    "id": "425277",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image373.jpg"
+  },
+  {
+    "price": 450000,
+    "id": "425278",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image374.jpg"
+  },
+  {
+    "price": 50000,
+    "id": "425279",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image375.jpg"
+  },
+  {
+    "price": 7000000,
+    "id": "425280",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image376.jpg"
+  },
+  {
+    "price": 200000,
+    "id": "425281",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image377.jpg"
+  },
+  {
+    "price": 12000000,
+    "id": "425282",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image378.jpg"
+  },
+  {
+    "price": 12000000,
+    "id": "425283",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image379.jpg"
+  },
+  {
+    "price": 350000,
+    "id": "425284",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image380.jpg"
+  },
+  {
+    "price": 9000000,
+    "id": "425285",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image381.jpg"
+  },
+  {
+    "price": 100000,
+    "id": "425286",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image382.jpg"
+  },
+  {
+    "price": 12000000,
+    "id": "425287",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image383.jpg"
+  },
+  {
+    "price": 5000000,
+    "id": "425288",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image384.jpg"
+  },
+  {
+    "price": 12000000,
+    "id": "425289",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image385.jpg"
+  },
+  {
+    "price": 200000,
+    "id": "425290",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image386.jpg"
+  },
+  {
+    "price": 9000000,
+    "id": "425291",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image387.jpg"
+  },
+  {
+    "price": 200000,
+    "id": "425292",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image388.jpg"
+  },
+  {
+    "price": 9000000,
+    "id": "425293",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image389.jpg"
+  },
+  {
+    "price": 4000000,
+    "id": "425294",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image390.jpg"
+  },
+  {
+    "price": 7000000,
+    "id": "425295",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image391.jpg"
+  },
+  {
+    "price": 150000,
+    "id": "425296",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image392.jpg"
+  },
+  {
+    "price": 7000000,
+    "id": "425297",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image393.jpg"
+  },
+  {
+    "price": 12000000,
+    "id": "425298",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image394.jpg"
+  },
+  {
+    "price": 6000000,
+    "id": "425299",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image395.jpg"
+  },
+  {
+    "price": 6000000,
+    "id": "425300",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image396.jpg"
+  },
+  {
+    "price": 5000000,
+    "id": "425301",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image397.jpg"
+  },
+  {
+    "price": 250000,
+    "id": "425302",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image398.jpg"
+  },
+  {
+    "price": 12000000,
+    "id": "425303",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image399.jpg"
+  },
+  {
+    "price": 13000000,
+    "id": "425304",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image400.jpg"
+  },
+  {
+    "price": 6000000,
+    "id": "425305",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image401.jpg"
+  },
+  {
+    "price": 5000000,
+    "id": "425306",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image402.jpg"
+  },
+  {
+    "price": 400000,
+    "id": "425307",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image403.jpg"
+  },
+  {
+    "price": 250000,
+    "id": "425308",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image404.jpg"
+  },
+  {
+    "price": 9000000,
+    "id": "425309",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image405.jpg"
+  },
+  {
+    "price": 300000,
+    "id": "425310",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image406.jpg"
+  },
+  {
+    "price": 8000000,
+    "id": "425311",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image407.jpg"
+  },
+  {
+    "price": 350000,
+    "id": "425312",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image408.jpg"
+  },
+  {
+    "price": 50000,
+    "id": "425313",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image409.jpg"
+  },
+  {
+    "price": 500000,
+    "id": "425314",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image410.jpg"
+  },
+  {
+    "price": 350000,
+    "id": "425315",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image411.jpg"
+  },
+  {
+    "price": 150000,
+    "id": "425316",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image412.jpg"
+  },
+  {
+    "price": 50000,
+    "id": "425317",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image413.jpg"
+  },
+  {
+    "price": 6000000,
+    "id": "425318",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image414.jpg"
+  },
+  {
+    "price": 400000,
+    "id": "425319",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image415.jpg"
+  },
+  {
+    "price": 400000,
+    "id": "425320",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image416.jpg"
+  },
+  {
+    "price": 50000,
+    "id": "425321",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image417.jpg"
+  },
+  {
+    "price": 250000,
+    "id": "425322",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image418.jpg"
+  },
+  {
+    "price": 12000000,
+    "id": "425323",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image419.jpg"
+  },
+  {
+    "price": 350000,
+    "id": "425324",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image420.jpg"
+  },
+  {
+    "price": 200000,
+    "id": "425325",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image421.jpg"
+  },
+  {
+    "price": 8000000,
+    "id": "425326",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image422.jpg"
+  },
+  {
+    "price": 500000,
+    "id": "425327",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image423.jpg"
+  },
+  {
+    "price": 500000,
+    "id": "425328",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image424.jpg"
+  },
+  {
+    "price": 13000000,
+    "id": "425329",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image425.jpg"
+  },
+  {
+    "price": 10000000,
+    "id": "425330",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image426.jpg"
+  },
+  {
+    "price": 500000,
+    "id": "425331",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image427.jpg"
+  },
+  {
+    "price": 9000000,
+    "id": "425332",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image428.jpg"
+  },
+  {
+    "price": 11000000,
+    "id": "425333",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image429.jpg"
+  },
+  {
+    "price": 150000,
+    "id": "425334",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image430.jpg"
+  },
+  {
+    "price": 5000000,
+    "id": "425335",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image431.jpg"
+  },
+  {
+    "price": 200000,
+    "id": "425336",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image432.jpg"
+  },
+  {
+    "price": 5000000,
+    "id": "425337",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image433.jpg"
+  },
+  {
+    "price": 6000000,
+    "id": "425338",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image434.jpg"
+  },
+  {
+    "price": 7000000,
+    "id": "425339",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image435.jpg"
+  },
+  {
+    "price": 400000,
+    "id": "425340",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image436.jpg"
+  },
+  {
+    "price": 250000,
+    "id": "425341",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image437.jpg"
+  },
+  {
+    "price": 50000,
+    "id": "425342",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image438.jpg"
+  },
+  {
+    "price": 10000000,
+    "id": "425343",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image439.jpg"
+  },
+  {
+    "price": 400000,
+    "id": "425344",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image440.jpg"
+  },
+  {
+    "price": 11000000,
+    "id": "425345",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image441.jpg"
+  },
+  {
+    "price": 500000,
+    "id": "425346",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image442.jpg"
+  },
+  {
+    "price": 6000000,
+    "id": "425347",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image443.jpg"
+  },
+  {
+    "price": 13000000,
+    "id": "425348",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image444.jpg"
+  },
+  {
+    "price": 150000,
+    "id": "425349",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image445.jpg"
+  },
+  {
+    "price": 7000000,
+    "id": "425350",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image446.jpg"
+  },
+  {
+    "price": 150000,
+    "id": "425351",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image447.jpg"
+  },
+  {
+    "price": 7000000,
+    "id": "425352",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image448.jpg"
+  },
+  {
+    "price": 100000,
+    "id": "425353",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image449.jpg"
+  },
+  {
+    "price": 4000000,
+    "id": "425354",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image450.jpg"
+  },
+  {
+    "price": 50000,
+    "id": "425355",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image451.jpg"
+  },
+  {
+    "price": 300000,
+    "id": "425356",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image452.jpg"
+  },
+  {
+    "price": 300000,
+    "id": "425357",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image453.jpg"
+  },
+  {
+    "price": 100000,
+    "id": "425358",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image454.jpg"
+  },
+  {
+    "price": 50000,
+    "id": "425359",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image455.jpg"
+  },
+  {
+    "price": 12000000,
+    "id": "425360",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image456.jpg"
+  },
+  {
+    "price": 150000,
+    "id": "425361",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image457.jpg"
+  },
+  {
+    "price": 450000,
+    "id": "425362",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image458.jpg"
+  },
+  {
+    "price": 8000000,
+    "id": "425363",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image459.jpg"
+  },
+  {
+    "price": 250000,
+    "id": "425364",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image460.jpg"
+  },
+  {
+    "price": 6000000,
+    "id": "425365",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image461.jpg"
+  },
+  {
+    "price": 11000000,
+    "id": "425366",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image462.jpg"
+  },
+  {
+    "price": 8000000,
+    "id": "425367",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image463.jpg"
+  },
+  {
+    "price": 8000000,
+    "id": "425368",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image464.jpg"
+  },
+  {
+    "price": 350000,
+    "id": "425369",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image465.jpg"
+  },
+  {
+    "price": 400000,
+    "id": "425370",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image466.jpg"
+  },
+  {
+    "price": 5000000,
+    "id": "425371",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image467.jpg"
+  },
+  {
+    "price": 7000000,
+    "id": "425372",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image468.jpg"
+  },
+  {
+    "price": 400000,
+    "id": "425373",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image469.jpg"
+  },
+  {
+    "price": 9000000,
+    "id": "425374",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image470.jpg"
+  },
+  {
+    "price": 450000,
+    "id": "425375",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image471.jpg"
+  },
+  {
+    "price": 350000,
+    "id": "425376",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image472.jpg"
+  },
+  {
+    "price": 11000000,
+    "id": "425377",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image473.jpg"
+  },
+  {
+    "price": 150000,
+    "id": "425378",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image474.jpg"
+  },
+  {
+    "price": 7000000,
+    "id": "425379",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image475.jpg"
+  },
+  {
+    "price": 6000000,
+    "id": "425380",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image476.jpg"
+  },
+  {
+    "price": 50000,
+    "id": "425381",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image477.jpg"
+  },
+  {
+    "price": 8000000,
+    "id": "425382",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image478.jpg"
+  },
+  {
+    "price": 200000,
+    "id": "425383",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image479.jpg"
+  },
+  {
+    "price": 500000,
+    "id": "425384",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image480.jpg"
+  },
+  {
+    "price": 11000000,
+    "id": "425385",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image481.jpg"
+  },
+  {
+    "price": 10000000,
+    "id": "425386",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image482.jpg"
+  },
+  {
+    "price": 5000000,
+    "id": "425387",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image483.jpg"
+  },
+  {
+    "price": 11000000,
+    "id": "425388",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image484.jpg"
+  },
+  {
+    "price": 4000000,
+    "id": "425389",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image485.jpg"
+  },
+  {
+    "price": 12000000,
+    "id": "425390",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image486.jpg"
+  },
+  {
+    "price": 100000,
+    "id": "425391",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image487.jpg"
+  },
+  {
+    "price": 350000,
+    "id": "425392",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image488.jpg"
+  },
+  {
+    "price": 100000,
+    "id": "425393",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image489.jpg"
+  },
+  {
+    "price": 4000000,
+    "id": "425394",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image490.jpg"
+  },
+  {
+    "price": 150000,
+    "id": "425395",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image491.jpg"
+  },
+  {
+    "price": 5000000,
+    "id": "425396",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image492.jpg"
+  },
+  {
+    "price": 9000000,
+    "id": "425397",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image493.jpg"
+  },
+  {
+    "price": 500000,
+    "id": "425398",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image494.jpg"
+  },
+  {
+    "price": 150000,
+    "id": "425399",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image495.jpg"
+  },
+  {
+    "price": 11000000,
+    "id": "425400",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image496.jpg"
+  },
+  {
+    "price": 200000,
+    "id": "425401",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image497.jpg"
+  },
+  {
+    "price": 50000,
+    "id": "425402",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image498.jpg"
+  },
+  {
+    "price": 6000000,
+    "id": "425403",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image499.jpg"
+  },
+  {
+    "price": 4000000,
+    "id": "425404",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image500.jpg"
+  },
+  {
+    "price": 4000000,
+    "id": "425405",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image501.jpg"
+  },
+  {
+    "price": 300000,
+    "id": "425406",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image502.jpg"
+  },
+  {
+    "price": 250000,
+    "id": "425407",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image503.jpg"
+  },
+  {
+    "price": 4000000,
+    "id": "425408",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image504.jpg"
+  },
+  {
+    "price": 7000000,
+    "id": "425409",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image505.jpg"
+  },
+  {
+    "price": 400000,
+    "id": "425410",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image506.jpg"
+  },
+  {
+    "price": 10000000,
+    "id": "425411",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image507.jpg"
+  },
+  {
+    "price": 11000000,
+    "id": "425412",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image508.jpg"
+  },
+  {
+    "price": 450000,
+    "id": "425413",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image509.jpg"
+  },
+  {
+    "price": 200000,
+    "id": "425414",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image510.jpg"
+  },
+  {
+    "price": 10000000,
+    "id": "425415",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image511.jpg"
+  },
+  {
+    "price": 50000,
+    "id": "425416",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image512.jpg"
+  },
+  {
+    "price": 250000,
+    "id": "425417",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image513.jpg"
+  },
+  {
+    "price": 100000,
+    "id": "425418",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image514.jpg"
+  },
+  {
+    "price": 12000000,
+    "id": "425419",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image515.jpg"
+  },
+  {
+    "price": 300000,
+    "id": "425420",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image516.jpg"
+  },
+  {
+    "price": 11000000,
+    "id": "425421",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image517.jpg"
+  },
+  {
+    "price": 4000000,
+    "id": "425422",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image518.jpg"
+  },
+  {
+    "price": 400000,
+    "id": "425423",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image519.jpg"
+  },
+  {
+    "price": 9000000,
+    "id": "425424",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image520.jpg"
+  },
+  {
+    "price": 10000000,
+    "id": "425425",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image521.jpg"
+  },
+  {
+    "price": 13000000,
+    "id": "425426",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image522.jpg"
+  },
+  {
+    "price": 11000000,
+    "id": "425427",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image523.jpg"
+  },
+  {
+    "price": 150000,
+    "id": "425428",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image524.jpg"
+  },
+  {
+    "price": 350000,
+    "id": "425429",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image525.jpg"
+  },
+  {
+    "price": 7000000,
+    "id": "425430",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image526.jpg"
+  },
+  {
+    "price": 11000000,
+    "id": "425431",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image527.jpg"
+  },
+  {
+    "price": 11000000,
+    "id": "425432",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image528.jpg"
+  },
+  {
+    "price": 12000000,
+    "id": "425433",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image529.jpg"
+  },
+  {
+    "price": 350000,
+    "id": "425434",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image530.jpg"
+  },
+  {
+    "price": 11000000,
+    "id": "425435",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image531.jpg"
+  },
+  {
+    "price": 450000,
+    "id": "425436",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image532.jpg"
+  },
+  {
+    "price": 200000,
+    "id": "425437",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image533.jpg"
+  },
+  {
+    "price": 350000,
+    "id": "425438",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image534.jpg"
+  },
+  {
+    "price": 200000,
+    "id": "425439",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image535.jpg"
+  },
+  {
+    "price": 4000000,
+    "id": "425440",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image536.jpg"
+  },
+  {
+    "price": 11000000,
+    "id": "425441",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image537.jpg"
+  },
+  {
+    "price": 100000,
+    "id": "425442",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image538.jpg"
+  },
+  {
+    "price": 13000000,
+    "id": "425443",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image539.jpg"
+  },
+  {
+    "price": 8000000,
+    "id": "425444",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image540.jpg"
+  },
+  {
+    "price": 5000000,
+    "id": "425445",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image541.jpg"
+  },
+  {
+    "price": 500000,
+    "id": "425446",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image542.jpg"
+  },
+  {
+    "price": 13000000,
+    "id": "425447",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image543.jpg"
+  },
+  {
+    "price": 13000000,
+    "id": "425448",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image544.jpg"
+  },
+  {
+    "price": 150000,
+    "id": "425449",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image545.jpg"
+  },
+  {
+    "price": 50000,
+    "id": "425450",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image546.jpg"
+  },
+  {
+    "price": 10000000,
+    "id": "425451",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image547.jpg"
+  },
+  {
+    "price": 250000,
+    "id": "425452",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image548.jpg"
+  },
+  {
+    "price": 450000,
+    "id": "425453",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image549.jpg"
+  },
+  {
+    "price": 11000000,
+    "id": "425454",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image550.jpg"
+  },
+  {
+    "price": 11000000,
+    "id": "425455",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image551.jpg"
+  },
+  {
+    "price": 9000000,
+    "id": "425456",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image552.jpg"
+  },
+  {
+    "price": 9000000,
+    "id": "425457",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image553.jpg"
+  },
+  {
+    "price": 250000,
+    "id": "425458",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image554.jpg"
+  },
+  {
+    "price": 6000000,
+    "id": "425459",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image555.jpg"
+  },
+  {
+    "price": 450000,
+    "id": "425460",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image556.jpg"
+  },
+  {
+    "price": 13000000,
+    "id": "425461",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image557.jpg"
+  },
+  {
+    "price": 500000,
+    "id": "425462",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image558.jpg"
+  },
+  {
+    "price": 10000000,
+    "id": "425463",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image559.jpg"
+  },
+  {
+    "price": 11000000,
+    "id": "425464",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image560.jpg"
+  },
+  {
+    "price": 4000000,
+    "id": "425465",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image561.jpg"
+  },
+  {
+    "price": 7000000,
+    "id": "425466",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image562.jpg"
+  },
+  {
+    "price": 4000000,
+    "id": "425467",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image563.jpg"
+  },
+  {
+    "price": 8000000,
+    "id": "425468",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image564.jpg"
+  },
+  {
+    "price": 7000000,
+    "id": "425469",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image565.jpg"
+  },
+  {
+    "price": 150000,
+    "id": "425470",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image566.jpg"
+  },
+  {
+    "price": 6000000,
+    "id": "425471",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image567.jpg"
+  },
+  {
+    "price": 200000,
+    "id": "425472",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image568.jpg"
+  },
+  {
+    "price": 150000,
+    "id": "425473",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image569.jpg"
+  },
+  {
+    "price": 6000000,
+    "id": "425474",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image570.jpg"
+  },
+  {
+    "price": 7000000,
+    "id": "512029",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image571.jpg"
+  },
+  {
+    "price": 50000,
+    "id": "512030",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image572.jpg"
+  },
+  {
+    "price": 350000,
+    "id": "512031",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image573.jpg"
+  },
+  {
+    "price": 7000000,
+    "id": "512032",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image574.jpg"
+  },
+  {
+    "price": 4000000,
+    "id": "512033",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image575.jpg"
+  },
+  {
+    "price": 5000000,
+    "id": "512034",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image576.jpg"
+  },
+  {
+    "price": 50000,
+    "id": "514553",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image577.jpg"
+  },
+  {
+    "price": 300000,
+    "id": "514554",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image578.jpg"
+  },
+  {
+    "price": 12000000,
+    "id": "514555",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image579.jpg"
+  },
+  {
+    "price": 400000,
+    "id": "514556",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image580.jpg"
+  },
+  {
+    "price": 400000,
+    "id": "514557",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image581.jpg"
+  },
+  {
+    "price": 11000000,
+    "id": "514558",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image582.jpg"
+  },
+  {
+    "price": 11000000,
+    "id": "514559",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image583.jpg"
+  },
+  {
+    "price": 450000,
+    "id": "514560",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image584.jpg"
+  },
+  {
+    "price": 8000000,
+    "id": "514561",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image585.jpg"
+  },
+  {
+    "price": 250000,
+    "id": "514562",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image586.jpg"
+  },
+  {
+    "price": 7000000,
+    "id": "514563",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image587.jpg"
+  },
+  {
+    "price": 10000000,
+    "id": "514564",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image588.jpg"
+  },
+  {
+    "price": 8000000,
+    "id": "514565",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image589.jpg"
+  },
+  {
+    "price": 13000000,
+    "id": "514566",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image590.jpg"
+  },
+  {
+    "price": 5000000,
+    "id": "514567",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image591.jpg"
+  },
+  {
+    "price": 200000,
+    "id": "514568",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image592.jpg"
+  },
+  {
+    "price": 11000000,
+    "id": "514569",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image593.jpg"
+  },
+  {
+    "price": 7000000,
+    "id": "514570",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image594.jpg"
+  },
+  {
+    "price": 9000000,
+    "id": "514571",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image595.jpg"
+  },
+  {
+    "price": 200000,
+    "id": "514572",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image596.jpg"
+  },
+  {
+    "price": 8000000,
+    "id": "514573",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image597.jpg"
+  },
+  {
+    "price": 13000000,
+    "id": "514574",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image598.jpg"
+  },
+  {
+    "price": 10000000,
+    "id": "514575",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image599.jpg"
+  },
+  {
+    "price": 6000000,
+    "id": "514576",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image600.jpg"
+  },
+  {
+    "price": 250000,
+    "id": "514577",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image601.jpg"
+  },
+  {
+    "price": 50000,
+    "id": "514578",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image602.jpg"
+  },
+  {
+    "price": 7000000,
+    "id": "514579",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image603.jpg"
+  },
+  {
+    "price": 4000000,
+    "id": "514580",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image604.jpg"
+  },
+  {
+    "price": 350000,
+    "id": "514581",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image605.jpg"
+  },
+  {
+    "price": 8000000,
+    "id": "514582",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image606.jpg"
+  },
+  {
+    "price": 7000000,
+    "id": "514583",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image607.jpg"
+  },
+  {
+    "price": 150000,
+    "id": "514584",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image608.jpg"
+  },
+  {
+    "price": 10000000,
+    "id": "514585",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image609.jpg"
+  },
+  {
+    "price": 100000,
+    "id": "514586",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image610.jpg"
+  },
+  {
+    "price": 400000,
+    "id": "514587",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image611.jpg"
+  },
+  {
+    "price": 450000,
+    "id": "514612",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image612.jpg"
+  },
+  {
+    "price": 12000000,
+    "id": "514613",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image613.jpg"
+  },
+  {
+    "price": 300000,
+    "id": "514614",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image614.jpg"
+  },
+  {
+    "price": 6000000,
+    "id": "514615",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image615.jpg"
+  },
+  {
+    "price": 100000,
+    "id": "514616",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image616.jpg"
+  },
+  {
+    "price": 200000,
+    "id": "514617",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image617.jpg"
+  },
+  {
+    "price": 10000000,
+    "id": "514618",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image618.jpg"
+  },
+  {
+    "price": 500000,
+    "id": "514619",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image619.jpg"
+  },
+  {
+    "price": 350000,
+    "id": "514620",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image620.jpg"
+  },
+  {
+    "price": 100000,
+    "id": "514621",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image621.jpg"
+  },
+  {
+    "price": 350000,
+    "id": "514622",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image622.jpg"
+  },
+  {
+    "price": 9000000,
+    "id": "514623",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image623.jpg"
+  },
+  {
+    "price": 8000000,
+    "id": "514624",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image624.jpg"
+  },
+  {
+    "price": 6000000,
+    "id": "514625",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image625.jpg"
+  },
+  {
+    "price": 11000000,
+    "id": "514626",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image626.jpg"
+  },
+  {
+    "price": 150000,
+    "id": "514627",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image627.jpg"
+  },
+  {
+    "price": 6000000,
+    "id": "514628",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image628.jpg"
+  },
+  {
+    "price": 100000,
+    "id": "514629",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image629.jpg"
+  },
+  {
+    "price": 7000000,
+    "id": "514630",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image630.jpg"
+  },
+  {
+    "price": 400000,
+    "id": "514631",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image631.jpg"
+  },
+  {
+    "price": 7000000,
+    "id": "514632",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image632.jpg"
+  },
+  {
+    "price": 250000,
+    "id": "514633",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image633.jpg"
+  },
+  {
+    "price": 7000000,
+    "id": "514634",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image634.jpg"
+  },
+  {
+    "price": 500000,
+    "id": "514635",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image635.jpg"
+  },
+  {
+    "price": 200000,
+    "id": "514636",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image636.jpg"
+  },
+  {
+    "price": 200000,
+    "id": "514637",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image637.jpg"
+  },
+  {
+    "price": 4000000,
+    "id": "514638",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image638.jpg"
+  },
+  {
+    "price": 450000,
+    "id": "514639",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image639.jpg"
+  },
+  {
+    "price": 400000,
+    "id": "514640",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image640.jpg"
+  },
+  {
+    "price": 5000000,
+    "id": "514641",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image641.jpg"
+  },
+  {
+    "price": 50000,
+    "id": "514642",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image642.jpg"
+  },
+  {
+    "price": 100000,
+    "id": "514643",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image643.jpg"
+  },
+  {
+    "price": 150000,
+    "id": "514644",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image644.jpg"
+  },
+  {
+    "price": 200000,
+    "id": "514645",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image645.jpg"
+  },
+  {
+    "price": 50000,
+    "id": "514646",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image646.jpg"
+  },
+  {
+    "price": 50000,
+    "id": "514647",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image647.jpg"
+  },
+  {
+    "price": 11000000,
+    "id": "514648",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image648.jpg"
+  },
+  {
+    "price": 300000,
+    "id": "514649",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image649.jpg"
+  },
+  {
+    "price": 50000,
+    "id": "514650",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image650.jpg"
+  },
+  {
+    "price": 150000,
+    "id": "514651",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image651.jpg"
+  },
+  {
+    "price": 150000,
+    "id": "514652",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image652.jpg"
+  },
+  {
+    "price": 5000000,
+    "id": "514653",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image653.jpg"
+  },
+  {
+    "price": 100000,
+    "id": "514654",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image654.jpg"
+  },
+  {
+    "price": 4000000,
+    "id": "514655",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image655.jpg"
+  },
+  {
+    "price": 13000000,
+    "id": "514656",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image656.jpg"
+  },
+  {
+    "price": 7000000,
+    "id": "514657",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image657.jpg"
+  },
+  {
+    "price": 350000,
+    "id": "514658",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image658.jpg"
+  },
+  {
+    "price": 10000000,
+    "id": "514659",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image659.jpg"
+  },
+  {
+    "price": 6000000,
+    "id": "514660",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image660.jpg"
+  },
+  {
+    "price": 8000000,
+    "id": "514661",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image661.jpg"
+  },
+  {
+    "price": 8000000,
+    "id": "514662",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image662.jpg"
+  },
+  {
+    "price": 4000000,
+    "id": "514663",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image663.jpg"
+  },
+  {
+    "price": 150000,
+    "id": "514664",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image664.jpg"
+  },
+  {
+    "price": 150000,
+    "id": "514665",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image665.jpg"
+  },
+  {
+    "price": 400000,
+    "id": "514666",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image666.jpg"
+  },
+  {
+    "price": 10000000,
+    "id": "514667",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image667.jpg"
+  },
+  {
+    "price": 7000000,
+    "id": "514668",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image668.jpg"
+  },
+  {
+    "price": 10000000,
+    "id": "514669",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image669.jpg"
+  },
+  {
+    "price": 50000,
+    "id": "514670",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image670.jpg"
+  },
+  {
+    "price": 450000,
+    "id": "514671",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image671.jpg"
+  },
+  {
+    "price": 500000,
+    "id": "514672",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image672.jpg"
+  },
+  {
+    "price": 7000000,
+    "id": "514673",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image673.jpg"
+  },
+  {
+    "price": 350000,
+    "id": "514674",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image674.jpg"
+  },
+  {
+    "price": 8000000,
+    "id": "514675",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image675.jpg"
+  },
+  {
+    "price": 200000,
+    "id": "514676",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image676.jpg"
+  },
+  {
+    "price": 450000,
+    "id": "514677",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image677.jpg"
+  },
+  {
+    "price": 11000000,
+    "id": "514678",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image678.jpg"
+  },
+  {
+    "price": 150000,
+    "id": "514679",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image679.jpg"
+  },
+  {
+    "price": 50000,
+    "id": "514680",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image680.jpg"
+  },
+  {
+    "price": 150000,
+    "id": "514681",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image681.jpg"
+  },
+  {
+    "price": 6000000,
+    "id": "514682",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image682.jpg"
+  },
+  {
+    "price": 4000000,
+    "id": "514683",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image683.jpg"
+  },
+  {
+    "price": 7000000,
+    "id": "514684",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image684.jpg"
+  },
+  {
+    "price": 50000,
+    "id": "514729",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image685.jpg"
+  },
+  {
+    "price": 50000,
+    "id": "514730",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image686.jpg"
+  },
+  {
+    "price": 200000,
+    "id": "514731",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image687.jpg"
+  },
+  {
+    "price": 450000,
+    "id": "514732",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image688.jpg"
+  },
+  {
+    "price": 4000000,
+    "id": "514733",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image689.jpg"
+  },
+  {
+    "price": 400000,
+    "id": "514734",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image690.jpg"
+  },
+  {
+    "price": 500000,
+    "id": "514746",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image691.jpg"
+  },
+  {
+    "price": 250000,
+    "id": "514747",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image692.jpg"
+  },
+  {
+    "price": 50000,
+    "id": "514748",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image693.jpg"
+  },
+  {
+    "price": 350000,
+    "id": "514749",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image694.jpg"
+  },
+  {
+    "price": 150000,
+    "id": "514774",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image695.jpg"
+  },
+  {
+    "price": 350000,
+    "id": "514775",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image696.jpg"
+  },
+  {
+    "price": 50000,
+    "id": "514776",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image697.jpg"
+  },
+  {
+    "price": 4000000,
+    "id": "514777",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image698.jpg"
+  },
+  {
+    "price": 100000,
+    "id": "514778",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image699.jpg"
+  },
+  {
+    "price": 7000000,
+    "id": "514779",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image700.jpg"
+  },
+  {
+    "price": 200000,
+    "id": "514780",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image701.jpg"
+  },
+  {
+    "price": 450000,
+    "id": "514781",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image702.jpg"
+  },
+  {
+    "price": 500000,
+    "id": "514782",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image703.jpg"
+  },
+  {
+    "price": 8000000,
+    "id": "514783",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image704.jpg"
+  },
+  {
+    "price": 10000000,
+    "id": "514784",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image705.jpg"
+  },
+  {
+    "price": 12000000,
+    "id": "514785",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image706.jpg"
+  },
+  {
+    "price": 450000,
+    "id": "514786",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image707.jpg"
+  },
+  {
+    "price": 6000000,
+    "id": "514787",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image708.jpg"
+  },
+  {
+    "price": 9000000,
+    "id": "514788",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image709.jpg"
+  },
+  {
+    "price": 350000,
+    "id": "514789",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image710.jpg"
+  },
+  {
+    "price": 50000,
+    "id": "514790",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image711.jpg"
+  },
+  {
+    "price": 350000,
+    "id": "514791",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image712.jpg"
+  },
+  {
+    "price": 300000,
+    "id": "514792",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image713.jpg"
+  },
+  {
+    "price": 350000,
+    "id": "514793",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image714.jpg"
+  },
+  {
+    "price": 400000,
+    "id": "514794",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image715.jpg"
+  },
+  {
+    "price": 500000,
+    "id": "514795",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image716.jpg"
+  },
+  {
+    "price": 9000000,
+    "id": "514796",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image717.jpg"
+  },
+  {
+    "price": 8000000,
+    "id": "514797",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image718.jpg"
+  },
+  {
+    "price": 4000000,
+    "id": "514798",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image719.jpg"
+  },
+  {
+    "price": 6000000,
+    "id": "514799",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image720.jpg"
+  },
+  {
+    "price": 8000000,
+    "id": "514800",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image721.jpg"
+  },
+  {
+    "price": 5000000,
+    "id": "514801",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image722.jpg"
+  },
+  {
+    "price": 11000000,
+    "id": "514802",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image723.jpg"
+  },
+  {
+    "price": 350000,
+    "id": "514803",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image724.jpg"
+  },
+  {
+    "price": 8000000,
+    "id": "514804",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image725.jpg"
+  },
+  {
+    "price": 13000000,
+    "id": "514805",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image726.jpg"
+  },
+  {
+    "price": 12000000,
+    "id": "514806",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image727.jpg"
+  },
+  {
+    "price": 12000000,
+    "id": "514807",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image728.jpg"
+  },
+  {
+    "price": 350000,
+    "id": "514808",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image729.jpg"
+  },
+  {
+    "price": 10000000,
+    "id": "514809",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image730.jpg"
+  },
+  {
+    "price": 6000000,
+    "id": "514810",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image731.jpg"
+  },
+  {
+    "price": 8000000,
+    "id": "514811",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image732.jpg"
+  },
+  {
+    "price": 300000,
+    "id": "514812",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image733.jpg"
+  },
+  {
+    "price": 350000,
+    "id": "514813",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image734.jpg"
+  },
+  {
+    "price": 5000000,
+    "id": "514814",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image735.jpg"
+  },
+  {
+    "price": 7000000,
+    "id": "514815",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image736.jpg"
+  },
+  {
+    "price": 400000,
+    "id": "514816",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image737.jpg"
+  },
+  {
+    "price": 350000,
+    "id": "514817",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image738.jpg"
+  },
+  {
+    "price": 500000,
+    "id": "514818",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image739.jpg"
+  },
+  {
+    "price": 5000000,
+    "id": "514819",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image740.jpg"
+  },
+  {
+    "price": 250000,
+    "id": "514820",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image741.jpg"
+  },
+  {
+    "price": 6000000,
+    "id": "514821",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image742.jpg"
+  },
+  {
+    "price": 6000000,
+    "id": "514822",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image743.jpg"
+  },
+  {
+    "price": 13000000,
+    "id": "514823",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image744.jpg"
+  },
+  {
+    "price": 50000,
+    "id": "514824",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image745.jpg"
+  },
+  {
+    "price": 11000000,
+    "id": "514825",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image746.jpg"
+  },
+  {
+    "price": 9000000,
+    "id": "514826",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image747.jpg"
+  },
+  {
+    "price": 200000,
+    "id": "514827",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image748.jpg"
+  },
+  {
+    "price": 400000,
+    "id": "514828",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image749.jpg"
+  },
+  {
+    "price": 250000,
+    "id": "514829",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image750.jpg"
+  },
+  {
+    "price": 350000,
+    "id": "514830",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image751.jpg"
+  },
+  {
+    "price": 6000000,
+    "id": "515493",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image752.jpg"
+  },
+  {
+    "price": 150000,
+    "id": "515494",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image753.jpg"
+  },
+  {
+    "price": 13000000,
+    "id": "515495",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image754.jpg"
+  },
+  {
+    "price": 4000000,
+    "id": "515496",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image755.jpg"
+  },
+  {
+    "price": 13000000,
+    "id": "515497",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image756.jpg"
+  },
+  {
+    "price": 9000000,
+    "id": "515498",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image757.jpg"
+  },
+  {
+    "price": 10000000,
+    "id": "515499",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image758.jpg"
+  },
+  {
+    "price": 5000000,
+    "id": "515500",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image759.jpg"
+  },
+  {
+    "price": 250000,
+    "id": "515501",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image760.jpg"
+  },
+  {
+    "price": 100000,
+    "id": "515502",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image761.jpg"
+  },
+  {
+    "price": 9000000,
+    "id": "515503",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image762.jpg"
+  },
+  {
+    "price": 7000000,
+    "id": "515504",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image763.jpg"
+  },
+  {
+    "price": 7000000,
+    "id": "515505",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image764.jpg"
+  },
+  {
+    "price": 350000,
+    "id": "515506",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image765.jpg"
+  },
+  {
+    "price": 400000,
+    "id": "515507",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image766.jpg"
+  },
+  {
+    "price": 9000000,
+    "id": "515508",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image767.jpg"
+  },
+  {
+    "price": 200000,
+    "id": "515509",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image768.jpg"
+  },
+  {
+    "price": 450000,
+    "id": "515510",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image769.jpg"
+  },
+  {
+    "price": 8000000,
+    "id": "515511",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image770.jpg"
+  },
+  {
+    "price": 400000,
+    "id": "515512",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image771.jpg"
+  },
+  {
+    "price": 11000000,
+    "id": "515513",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image772.jpg"
+  },
+  {
+    "price": 350000,
+    "id": "515514",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image773.jpg"
+  },
+  {
+    "price": 500000,
+    "id": "515515",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image774.jpg"
+  },
+  {
+    "price": 9000000,
+    "id": "515516",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image775.jpg"
+  },
+  {
+    "price": 400000,
+    "id": "515517",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image776.jpg"
+  },
+  {
+    "price": 500000,
+    "id": "515518",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image777.jpg"
+  },
+  {
+    "price": 300000,
+    "id": "515519",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image778.jpg"
+  },
+  {
+    "price": 7000000,
+    "id": "515520",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image779.jpg"
+  },
+  {
+    "price": 13000000,
+    "id": "515521",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image780.jpg"
+  },
+  {
+    "price": 11000000,
+    "id": "515522",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image781.jpg"
+  },
+  {
+    "price": 50000,
+    "id": "515523",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image782.jpg"
+  },
+  {
+    "price": 11000000,
+    "id": "515524",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image783.jpg"
+  },
+  {
+    "price": 9000000,
+    "id": "515525",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image784.jpg"
+  },
+  {
+    "price": 450000,
+    "id": "515526",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image785.jpg"
+  },
+  {
+    "price": 8000000,
+    "id": "515527",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image786.jpg"
+  },
+  {
+    "price": 5000000,
+    "id": "515528",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image787.jpg"
+  },
+  {
+    "price": 6000000,
+    "id": "515529",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image788.jpg"
+  },
+  {
+    "price": 13000000,
+    "id": "515530",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image789.jpg"
+  },
+  {
+    "price": 250000,
+    "id": "515531",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image790.jpg"
+  },
+  {
+    "price": 13000000,
+    "id": "515532",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image791.jpg"
+  },
+  {
+    "price": 300000,
+    "id": "515533",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image792.jpg"
+  },
+  {
+    "price": 100000,
+    "id": "515534",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image793.jpg"
+  },
+  {
+    "price": 12000000,
+    "id": "515535",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image794.jpg"
+  },
+  {
+    "price": 500000,
+    "id": "515536",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image795.jpg"
+  },
+  {
+    "price": 7000000,
+    "id": "515537",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image796.jpg"
+  },
+  {
+    "price": 350000,
+    "id": "515538",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image797.jpg"
+  },
+  {
+    "price": 10000000,
+    "id": "515539",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image798.jpg"
+  },
+  {
+    "price": 7000000,
+    "id": "515540",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image799.jpg"
+  },
+  {
+    "price": 200000,
+    "id": "515541",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image800.jpg"
+  },
+  {
+    "price": 10000000,
+    "id": "515542",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image801.jpg"
+  },
+  {
+    "price": 450000,
+    "id": "515543",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image802.jpg"
+  },
+  {
+    "price": 5000000,
+    "id": "515544",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image803.jpg"
+  },
+  {
+    "price": 300000,
+    "id": "515545",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image804.jpg"
+  },
+  {
+    "price": 450000,
+    "id": "515546",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image805.jpg"
+  },
+  {
+    "price": 50000,
+    "id": "515547",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image806.jpg"
+  },
+  {
+    "price": 12000000,
+    "id": "515790",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image807.jpg"
+  },
+  {
+    "price": 9000000,
+    "id": "515791",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image808.jpg"
+  },
+  {
+    "price": 50000,
+    "id": "515792",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image809.jpg"
+  },
+  {
+    "price": 8000000,
+    "id": "515793",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image810.jpg"
+  },
+  {
+    "price": 200000,
+    "id": "515794",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image811.jpg"
+  },
+  {
+    "price": 250000,
+    "id": "515795",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image812.jpg"
+  },
+  {
+    "price": 12000000,
+    "id": "515796",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image813.jpg"
+  },
+  {
+    "price": 200000,
+    "id": "515797",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image814.jpg"
+  },
+  {
+    "price": 4000000,
+    "id": "515798",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image815.jpg"
+  },
+  {
+    "price": 150000,
+    "id": "515799",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image816.jpg"
+  },
+  {
+    "price": 500000,
+    "id": "515800",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image817.jpg"
+  },
+  {
+    "price": 10000000,
+    "id": "515801",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image818.jpg"
+  },
+  {
+    "price": 100000,
+    "id": "515802",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image819.jpg"
+  },
+  {
+    "price": 6000000,
+    "id": "515803",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image820.jpg"
+  },
+  {
+    "price": 9000000,
+    "id": "515804",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image821.jpg"
+  },
+  {
+    "price": 4000000,
+    "id": "515805",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image822.jpg"
+  },
+  {
+    "price": 150000,
+    "id": "515806",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image823.jpg"
+  },
+  {
+    "price": 4000000,
+    "id": "515807",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image824.jpg"
+  },
+  {
+    "price": 4000000,
+    "id": "515808",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image825.jpg"
+  },
+  {
+    "price": 12000000,
+    "id": "515809",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image826.jpg"
+  },
+  {
+    "price": 4000000,
+    "id": "515810",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image827.jpg"
+  },
+  {
+    "price": 10000000,
+    "id": "515811",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image828.jpg"
+  },
+  {
+    "price": 12000000,
+    "id": "515907",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image829.jpg"
+  },
+  {
+    "price": 300000,
+    "id": "515908",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image830.jpg"
+  },
+  {
+    "price": 6000000,
+    "id": "515909",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image831.jpg"
+  },
+  {
+    "price": 10000000,
+    "id": "515910",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image832.jpg"
+  },
+  {
+    "price": 500000,
+    "id": "515911",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image833.jpg"
+  },
+  {
+    "price": 7000000,
+    "id": "515912",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image834.jpg"
+  },
+  {
+    "price": 450000,
+    "id": "515913",
+    "type": "buy",
+    "img_src": "http://diptap.sbs/image?name=Image835.jpg"
+  },
+  {
+    "price": 4000000,
+    "id": "515914",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image836.jpg"
+  },
+  {
+    "price": 5000000,
+    "id": "517433",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image837.jpg"
+  },
+  {
+    "price": 13000000,
+    "id": "517434",
+    "type": "rent",
+    "img_src": "http://diptap.sbs/image?name=Image838.jpg"
+  }
+]
