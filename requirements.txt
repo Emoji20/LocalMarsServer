@@ -1,3 +1,7 @@
 requests
 fastapi
+<<<<<<< HEAD
 uvicorn
+=======
+uvicorn
+>>>>>>> d6be4c3 (a version with all photos)
